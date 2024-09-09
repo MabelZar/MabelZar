@@ -3,7 +3,7 @@ Hola, soy Mabel 👋
 
 Soy una desarrolladora full-stack en formación, actualmente inmersa en un bootcamp intensivo donde estoy perfeccionando mis habilidades en tecnologías modernas de desarrollo. Mi objetivo es construir aplicaciones robustas y escalables que ofrezcan una experiencia de usuario excepcional.  
 
-🚀 Tecnologías que uso  
+#🚀 Tecnologías que uso  
 Frontend: React, JavaScript, Vite, Axios, CSS, HTML  
 Backend: Java, Spring, Spring Boot, Spring JPA, Servicio Rest, JWT  
 Pruebas: JUnit, Mockito  
@@ -17,22 +17,24 @@ Descripción: Es una aplicacion de organizacion de comidas, su propósito es ayu
 Tecnologías utilizadas: Java, Spring, Junit, PostgreeSQL, React, Javascript  
 
 Happy-Travel  
-Descripción: Es una plicacion de registro de viajes deseados.El usuario podra registrarse y hacer log-in. Ademas podra agregar, editar, eliminar y guardar un destino.
+Descripción: Es una plicacion de registro de viajes deseados.El usuario podra registrarse y hacer log-in. Ademas podra agregar, editar, eliminar y guardar un destino.  
 Tecnologías utilizadas: Java, Spring, Junit, PostgreeSQL, React, Javascript
 
-💼 Experiencia
-Actualmente, estoy realizando un bootcamp intensivo en FACTORIA F5, donde estoy adquiriendo experiencia práctica en el desarrollo full-stack a través de proyectos y entornos reales, usando metodologias AGILE(SCRUM y Kanban) que me enseñaron las mejores y mas efectivas formas de trabajo.
+💼 Experiencia  
+Actualmente, estoy realizando un bootcamp intensivo en FACTORIA F5, donde estoy adquiriendo experiencia práctica en el desarrollo full-stack a través de proyectos y entornos reales, usando metodologias AGILE(SCRUM y Kanban) que me enseñaron las mejores y mas efectivas formas de trabajo.  
 
-🌟 Habilidades
-Desarrollo de aplicaciones web full-stack
-Diseño de interfaces de usuario intuitivas y funcionales
-Creación de APIs RESTful con Java Spring Boot
-Implementación de pruebas unitarias y de integración
-📫 ¿Cómo contactarme?
-Email:mabel.zar.esp@gmail.com
-LinkedIn: www.linkedin.com/in/mabelzarateespiritu
-📈 Mi Progreso
-Estoy comprometida a seguir aprendiendo y creciendo como desarrollador. Puedes seguir mi progreso y los proyectos en los que estoy trabajando en este repositorio. ¡No dudes en darme feedback o sugerencias!💞️
+🌟 Habilidades  
+Desarrollo de aplicaciones web full-stack  
+Diseño de interfaces de usuario intuitivas y funcionales  
+Creación de APIs RESTful con Java Spring Boot  
+Implementación de pruebas unitarias y de integración  
+
+📫 ¿Cómo contactarme?  
+Email:mabel.zar.esp@gmail.com  
+LinkedIn: www.linkedin.com/in/mabelzarateespiritu  
+
+📈 Mi Progreso  
+Estoy comprometida a seguir aprendiendo y creciendo como desarrollador. Puedes seguir mi progreso y los proyectos en los que estoy trabajando en este repositorio. ¡No dudes en darme feedback o sugerencias!💞️  
 
 <!---
 MabelZar/MabelZar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
