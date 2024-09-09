@@ -3,7 +3,7 @@ Hola, soy Mabel 👋
 
 Soy una desarrolladora full-stack en formación, actualmente inmersa en un bootcamp intensivo donde estoy perfeccionando mis habilidades en tecnologías modernas de desarrollo. Mi objetivo es construir aplicaciones robustas y escalables que ofrezcan una experiencia de usuario excepcional.  
 
-#🚀 Tecnologías que uso  
+🚀 Tecnologías que uso  
 Frontend: React, JavaScript, Vite, Axios, CSS, HTML  
 Backend: Java, Spring, Spring Boot, Spring JPA, Servicio Rest, JWT  
 Pruebas: JUnit, Mockito  
