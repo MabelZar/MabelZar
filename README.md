@@ -1,21 +1,22 @@
 
-#Hola, soy Mabel 👋  
+Hola, soy Mabel 👋  
 
 Soy una desarrolladora full-stack en formación, actualmente inmersa en un bootcamp intensivo donde estoy perfeccionando mis habilidades en tecnologías modernas de desarrollo. Mi objetivo es construir aplicaciones robustas y escalables que ofrezcan una experiencia de usuario excepcional.  
 
-🚀 #Tecnologías que uso
-Frontend: React, JavaScript, Vite, Axios, CSS, HTML
-Backend: Java, Spring, Spring Boot, Spring JPA, Servicio Rest, JWT
-Pruebas: JUnit, Mockito
-Bases de datos: MySQL, PostgreSQL
-Otros: Git, Postman, Figma, Drawio etc.
+🚀 Tecnologías que uso  
+Frontend: React, JavaScript, Vite, Axios, CSS, HTML  
+Backend: Java, Spring, Spring Boot, Spring JPA, Servicio Rest, JWT  
+Pruebas: JUnit, Mockito  
+Bases de datos: MySQL, PostgreSQL  
+Otros: Git, Postman, Figma, Drawio etc.  
 
-📚 Proyectos Destacados
-CooList
+📚 Proyectos Destacados  
+CooList  
 Es una aplicacion en la que me encuentro trabajando actualmente de forma individual.
-Descripción: Es una aplicacion de organizacion de comidas, su propósito es ayudar a la planificacion de comidas semanales de acuerdo a cada necesidad, donde el usuario registrado podra obtener una lista de ingredientes segun la programacion semanal añadida(CRUD, Log-in).
-Tecnologías utilizadas: Java, Spring, Junit, PostgreeSQL, React, Javascript
-Happy-Travel
+Descripción: Es una aplicacion de organizacion de comidas, su propósito es ayudar a la planificacion de comidas semanales de acuerdo a cada necesidad, donde el usuario registrado podra obtener una lista de ingredientes segun la programacion semanal añadida(CRUD, Log-in).  
+Tecnologías utilizadas: Java, Spring, Junit, PostgreeSQL, React, Javascript  
+
+Happy-Travel  
 Descripción: Es una plicacion de registro de viajes deseados.El usuario podra registrarse y hacer log-in. Ademas podra agregar, editar, eliminar y guardar un destino.
 Tecnologías utilizadas: Java, Spring, Junit, PostgreeSQL, React, Javascript
 
