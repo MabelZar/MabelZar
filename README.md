@@ -1,7 +1,7 @@
 
 Hola, soy Mabel 👋  
 
-Soy una desarrolladora full-stack en formación, actualmente inmersa en un bootcamp intensivo donde estoy perfeccionando mis habilidades en tecnologías modernas de desarrollo. Mi objetivo es construir aplicaciones robustas y escalables que ofrezcan una experiencia de usuario excepcional.  
+Soy una desarrolladora full-stack en formación, recientemente complete un bootcamp intensivo donde aprendí a ir perfeccionando mis habilidades en tecnologías modernas de desarrollo. Mi objetivo es construir aplicaciones robustas y escalables que ofrezcan una experiencia de usuario excepcional.  
 
 🚀 Tecnologías que uso  
 Frontend: React, JavaScript, Vite, Axios, CSS, HTML  
