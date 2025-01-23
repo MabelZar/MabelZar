@@ -23,24 +23,27 @@ Tecnologías utilizadas: Java, Spring, Junit, PostgreeSQL, React, Javascript
 
 Reverso Social
 Descripción: Desarrollo de una aplicación de ayudas para la integración de la mujer en el mundo laboral.
-
-
-💼 Experiencia  
-Como desarrolladora fullstack en FACTORIA F5, adquirí experiencia práctica  a través de proyectos y entornos reales, usando metodologias AGILE(SCRUM y Kanban) que me enseñaron las mejores y mas efectivas formas de trabajo.   
-
 Desarrollé un sistema utilizando Java 17 ySpring Boot (MVC, JPA, JWT).   
 Implementé APIs RESTful siguiendobuenas prácticas, con herramientas comoPostman para pruebas.   
 Diseñé el frontend con React, integrandoestilos con SASS y consumo de APIsmediante Axios.   
 Configuré la base de datos PostgreSQL y manejé relaciones entre entidades utilizando JPA.   
-Participé en pruebas unitarias con JUnit 5y Mockito.
+Participé en pruebas unitarias con JUnit 5y Mockito.   
 
-🌟 Habilidades  
+
+💼 Experiencia   
+
+Como desarrolladora fullstack en FACTORIA F5, adquirí experiencia práctica  a través de proyectos y entornos reales, usando metodologias AGILE(SCRUM y Kanban) que me enseñaron las mejores y mas efectivas formas de trabajo.   
+
+
+🌟 Habilidades    
+
 Desarrollo de aplicaciones web full-stack  
 Diseño de interfaces de usuario intuitivas y funcionales  
 Creación de APIs RESTful con Java Spring Boot  
 Implementación de pruebas unitarias y de integración  
 
-📫 ¿Cómo contactarme?  
+📫 ¿Cómo contactarme?    
+
 Email:mabel.zar.esp@gmail.com  
 LinkedIn: www.linkedin.com/in/mabelzarateespiritu  
 
