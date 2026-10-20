@@ -12,10 +12,10 @@ Otros: Git, Postman, Figma, Drawio etc.
 
 📚 Proyectos Destacados  
 
-CooList  
-Es una aplicacion en la que me encuentro trabajando actualmente de forma individual.
-Descripción: Es una aplicacion de organizacion de comidas, su propósito es ayudar a la planificacion de comidas semanales de acuerdo a cada necesidad, donde el usuario registrado podra obtener una lista de ingredientes segun la programacion semanal añadida(CRUD, Log-in).  
-Tecnologías utilizadas: Java, Spring, Junit, PostgreeSQL, React, Javascript  
+Cook-List  
+Es una aplicación en la que me encuentro trabajando actualmente como parte de mi proyecto intermodular de 2º de DAW 
+Descripción: Es una aplicacion de organizacion de comidas, su propósito es ayudar a la planificacion de comidas semanales, donde el usuario registrado podra obtener una lista de ingredientes segun la programacion semanal añadida(CRUD, Log-in).  
+Tecnologías utilizadas: Java, Spring, PostgreeSQL, React, Javascript  
 
 Happy-Travel  
 Descripción: Es una plicacion de registro de viajes deseados.El usuario podra registrarse y hacer log-in. Ademas podra agregar, editar, eliminar y guardar un destino.  
