@@ -14,6 +14,7 @@ Otros: Git, Postman, Figma, Drawio etc.
 
 Cook-List  
 Es una aplicación en la que me encuentro trabajando actualmente como parte de mi proyecto intermodular de 2º de DAW 
+
 Descripción: Es una aplicacion de organizacion de comidas, su propósito es ayudar a la planificacion de comidas semanales, donde el usuario registrado podra obtener una lista de ingredientes segun la programacion semanal añadida(CRUD, Log-in).  
 Tecnologías utilizadas: Java, Spring, PostgreeSQL, React, Javascript  
 
